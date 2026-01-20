@@ -1,4 +1,6 @@
-#GRADING SCORE
+#GRADING SCORE with subject sumary
+subject = input("Enter subject name: ")
+
 sg = input("Enter Score: ")
 sg = float(sg)
 
@@ -18,5 +20,6 @@ else:
         
     print(grade)
 
-#another line for commitment
+
+
 
