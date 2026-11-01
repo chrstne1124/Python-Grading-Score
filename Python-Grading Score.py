@@ -19,6 +19,7 @@ else:
         grade = 'F'
         
     print(grade)
+//should be use in grading system in student and maybe expand to other areas like clock in and out of employeess
 
 
 
